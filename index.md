@@ -13,3 +13,7 @@ int main(void)
   return 0;
 }
 ```
+
+- [x] Do thing
+- [ ] Nod head
+- [ ] Profit
